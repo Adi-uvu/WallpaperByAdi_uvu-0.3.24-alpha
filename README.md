@@ -1,2 +1,15 @@
 # WallpaperByAdi_uvu-0.3.24-alpha
-Tapety stworzone dla szkół TebEdukacja
+
+0.3.24-alpha
+
+[+] dodano 35 nowych tapety (tapety generowane za pomocą sztucznej inteligencji)
+ 
+[+] dodano skrypt instalacyjny
+
+*wersja alpha, beta, alpha 
+
+*wspiera logo ascii (beta, alpha)
+
+*wspiera usuwanie tapet z środowiska ukui za pomocą -rm -remove (alpha)
+
+*wsparcie dla środowisk gnome, budgie desktop, cinnamon, ukui, kde, xfce, cutefish, mate, ubuntu-unity7
