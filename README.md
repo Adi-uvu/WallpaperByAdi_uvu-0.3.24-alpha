@@ -1,5 +1,7 @@
 # WallpaperByAdi_uvu-0.3.24-alpha
 
+0.3.24-beta
+
 * aby zainstalować tapety na Linux:
 ``sudo ./beta-install.sh``
 (jeżeli nie działa trzeba w eksplratorze plików ustawić aby plik był jako wykonawczy)
@@ -9,8 +11,6 @@
 
 * aby usunąć tapety na Linux nalerzy:
 ``sudo ./beta-install.sh -rm`` lub ``sudo ./beta-install.sh -remove``
-
-0.3.24-beta
 
 35 nowych tapety (tapety generowane za pomocą sztucznej inteligencji)
 
